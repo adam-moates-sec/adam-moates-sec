@@ -4,7 +4,7 @@
 Detail-oriented technical professional combining hands-on physical network deployment, systems administration, and industrial controls with enterprise security practices. 
 
 - 📍 **Location:** Greater Knoxville / Oak Ridge, TN Area
-- 📜 **Certifications:** CompTIA Security+ | MS SC-900 (In Progress)
+- 📜 **Certifications:** CompTIA Security+ | MS SC-900 (In Progress) | Splunk (In Progress)
 - 💼 **Focus Areas:** SOC Operations, Network Infrastructure, Incident Triage, OT/Industrial Security
 - 🔗 **LinkedIn:** [linkedin.com/in/adam-moates](https://linkedin.com/in/adam-moates)
 
